@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin: 40px;
+    font-weight: 800;
+    padding: 60px 0 40px 0;    
+}
+
+.title {
+
+    text-decoration: overline;
+}
+
+#navbar {
+    background-color: darkblue;
+    font-size: 25px;
+    padding: 20px;
+    list-style-type: none;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    font-weight:700;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+#home {
+    padding-right: 200px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+.btn.btn.btn-primary {
+    background-color: darkblue;
+}
+
+.titrepay {
+    font-weight: 800;
+    background-color: darkblue;
+    padding: 25px;
+    border-radius: 25px;
+    color: white;
+}
+
+#input {
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#payd {
+    margin-left: 130px;
+}
+
+#payer {
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#para {
+    margin: 0 40% 150px 150px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+#photo {
+    margin: 100px;
+    width: 400px;
+    height: 800px;
+    border-image: 8cm;
+    object-fit: cover;
+}
